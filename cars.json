@@ -1,0 +1,14 @@
+[
+  {
+    "id": "prius_2018",
+    "brand": "Toyota",
+    "model": "Prius",
+    "year": 2018
+  },
+  {
+    "id": "ioniq_2020",
+    "brand": "Hyundai",
+    "model": "Ioniq",
+    "year": 2020
+  }
+]
