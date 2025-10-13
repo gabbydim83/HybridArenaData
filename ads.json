@@ -88,5 +88,106 @@
         "overall": null
       }
     }
+  },
+  {
+    "id": "2",
+    "listed_at": "2025-10-13T12:00:00Z",
+    "status": "published",
+
+    "vin": "JMBXDGG2WKZ123456",
+    "first_registration_year": 2019,
+    "brand": "Mitsubishi",
+    "model": "Outlander PHEV",
+    "engine_capacity_cc": 2360,
+    "power_kw_total": 165,
+    "hybrid_type": "Plug-in Hybrid",
+    "co2_emissions": 46,
+    "document_images": [
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander_carte.webp"
+    ],
+
+    "price_eur": 20400,
+    "mileage_km": 124000,
+    "year": 2019,
+    "transmission": "Automatic",
+    "color": "White Pearl",
+    "interior": "Black leather",
+    "doors": 5,
+    "owners_count": 1,
+
+    "features": [
+      "All-wheel drive (AWD)",
+      "Heated seats",
+      "Adaptive cruise control",
+      "360° camera",
+      "Lane departure warning",
+      "Blind spot assist",
+      "Apple CarPlay",
+      "Android Auto",
+      "LED headlights",
+      "Keyless entry & start",
+      "Electric tailgate",
+      "Dual-zone climate control"
+    ],
+
+    "condition": "used",
+    "service_history_summary": "Service complet la reprezentanță Mitsubishi până în 2024",
+    "description": "Mitsubishi Outlander PHEV 2019, hibrid plug-in, autonomie electrică de aproximativ 40 km și tracțiune integrală. Mașină spațioasă, confortabilă și eficientă pentru oraș sau drumuri lungi.",
+
+    "contact": {
+      "name": "Andrei Popescu",
+      "phone": "+40723456789",
+      "email": "andrei.popescu@gmail.com",
+      "preferred_contact": "phone"
+    },
+
+    "image_gallery": [
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander1.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander2.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander3.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander4.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander5.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander6.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander7.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander8.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander9.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander10.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander11.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander12.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander13.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander14.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander15.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander16.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander17.jpg",
+    ],
+
+    "video_url": "https://youtu.be/example_outlander",
+    "tags": ["plug-in", "awd", "family", "eco"],
+
+    "technical": {
+      "engine_type": "Inline-4 + Dual Electric Motors",
+      "battery_type": "Li-ion",
+      "battery_capacity_kwh": 13.8,
+      "ev_range_km": 40,
+      "charging_time_hours": 4.5,
+      "zero_to_100_kmh": 10.5,
+      "consumption": {
+        "city_l_100km": 2.0,
+        "highway_l_100km": 6.0,
+        "combined_l_100km": 4.0
+      }
+    },
+
+    "meta": {
+      "source": "user_upload",
+      "visibility": "public",
+      "language": "ro",
+      "hybridarena_score": {
+        "battery_health": null,
+        "fuel_efficiency": null,
+        "overall": null
+      }
+    }
   }
 ]
