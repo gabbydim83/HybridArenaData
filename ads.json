@@ -13,7 +13,7 @@
     "hybrid_type": "Full Hybrid",
     "co2_emissions": 86,
     "document_images": [
-      "https://github.com/gabbydim83/HybridArenaData/blob/main/images/toyota_prius/prius_carte.webp",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius_carte.webp",
       
     ],
 
@@ -52,8 +52,7 @@
 
     "image_gallery": [
       "https://example.com/prius_front.jpg",
-      "https://example.com/prius_interior.jpg",
-      "https://example.com/prius_rear.jpg"
+      
     ],
     "video_url": "https://youtu.be/example123",
     "tags": ["eco", "city-friendly", "low-emissions"],
