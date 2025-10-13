@@ -13,8 +13,8 @@
     "hybrid_type": "Full Hybrid",
     "co2_emissions": 86,
     "document_images": [
-      "https://example.com/service_book1.jpg",
-      "https://example.com/service_book2.jpg"
+      "images/toyota_prius/prius_carte.webp",
+      
     ],
 
     "price_eur": 14900,
