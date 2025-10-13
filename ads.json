@@ -51,7 +51,14 @@
     },
 
     "image_gallery": [
-      "https://example.com/prius_front.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius2.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius3.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius4.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius5.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius6.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius7.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius8.jpg",
       
     ],
     "video_url": "https://youtu.be/example123",
