@@ -189,5 +189,96 @@
         "overall": null
       }
     }
+  },
+{
+  "id": "3",
+  "listed_at": "2025-10-13T12:00:00Z",
+  "status": "published",
+
+  "vin": "JHMZE2G40AS123456",
+  "first_registration_year": 2010,
+  "brand": "Honda",
+  "model": "Insight",
+  "engine_capacity_cc": 1339,
+  "power_kw_total": 72,
+  "hybrid_type": "Mild Hybrid",
+  "co2_emissions": 101,
+  "document_images": [
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight_carte.webp"
+  ],
+
+  "price_eur": 5400,
+  "mileage_km": 260000,
+  "year": 2010,
+  "transmission": "CVT",
+  "color": "Grey Metallic",
+  "interior": "Fabric grey",
+  "doors": 5,
+  "owners_count": 2,
+
+  "features": [
+    "Cruise control",
+    "Automatic climate control",
+    "ECO driving mode",
+    "Heated mirrors",
+    "Electric windows",
+    "Multifunction steering wheel",
+    "Start-stop system",
+    "Bluetooth",
+    "ABS + ESP",
+    "Alloy wheels"
+  ],
+
+  "condition": "used",
+  "service_history_summary": "Revizii regulate la 10.000 km, înregistrate în carnet până în 2024",
+  "description": "Honda Insight 2010, hibrid mild fiabil și economic, ideal pentru oraș. Consum redus, întreținere ieftină și comportament confortabil la drum lung.",
+
+  "contact": {
+    "name": "Andrei Popescu",
+    "phone": "+40723456789",
+    "email": "andrei.popescu@gmail.com",
+    "preferred_contact": "phone"
+  },
+
+  "image_gallery": [
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight1.jpg",
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight2.jpg",
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight3.jpg",
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight4.jpg",
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight5.jpg",
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight6.jpg",
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight7.jpg",
+    "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/honda_insight/insight8.jpg"
+  ],
+
+  "video_url": "https://youtu.be/example_insight",
+  "tags": ["mild-hybrid", "city", "economy", "reliable"],
+
+  "technical": {
+    "engine_type": "Inline-4 + Electric Motor (IMA)",
+    "battery_type": "NiMH",
+    "battery_capacity_kwh": 0.6,
+    "ev_range_km": 0,
+    "charging_time_hours": null,
+    "zero_to_100_kmh": 12.0,
+    "consumption": {
+      "city_l_100km": 4.8,
+      "highway_l_100km": 5.1,
+      "combined_l_100km": 4.9
+    }
+  },
+
+  "meta": {
+    "source": "user_upload",
+    "visibility": "public",
+    "language": "ro",
+    "hybridarena_score": {
+      "battery_health": null,
+      "fuel_efficiency": null,
+      "overall": null
+    }
   }
+}
+
+  
 ]
