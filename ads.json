@@ -4,7 +4,7 @@
     "listed_at": "2025-10-12T12:00:00Z",
     "status": "published",
 
-    "vin": "JTDKB20U093456789",
+    "vin": "JTDKB3FU003080734",
     "first_registration_year": 2019,
     "brand": "Toyota",
     "model": "Prius",
@@ -20,9 +20,9 @@
     "price_eur": 14900,
     "mileage_km": 201000,
     "year": 2019,
-    "transmission": "CVT",
+    "transmission": "eCVT",
     "color": "Silver",
-    "interior": "Black leather",
+    "interior": "Black textil",
     "doors": 5,
     "owners_count": 1,
 
@@ -36,17 +36,18 @@
       "Android Auto",
       "Climate control",
       "Heated seats",
+      "Whireless Charger",
       "LED headlights"
     ],
 
     "condition": "used",
     "service_history_summary": "Service la reprezentanță 2020-2024",
-    "description": "Toyota Prius Hybrid 2019, întreținută impecabil, consum mic și confort ridicat. Ideală pentru oraș și navetă.",
+    "description": "Toyota Prius Hybrid 2019, întreținută impecabil, consum mic și confort ridicat. Masina este importata din Belgia, a avut un singur prooprietar si a fost corect intretinuta conform carnetului de service. Ultima revizie este facuta la 7-iulie-2025. Masina se vinde pe baza de factura.",
     
     "contact": {
-      "name": "Andrei Popescu",
-      "phone": "+40723456789",
-      "email": "andrei.popescu@gmail.com",
+      "name": "Gabriel",
+      "phone": "+40755687296",
+      "email": "gabridim18@gmail.com",
       "preferred_contact": "phone"
     },
 
@@ -94,7 +95,7 @@
     "listed_at": "2025-10-13T12:00:00Z",
     "status": "published",
 
-    "vin": "JMBXDGG2WKZ123456",
+    "vin": "JTDKB3FU003080734",
     "first_registration_year": 2019,
     "brand": "Mitsubishi",
     "model": "Outlander PHEV",
