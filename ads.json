@@ -109,7 +109,7 @@
     ],
 
     "price_eur": 20400,
-    "mileage_km": 124000,
+    "mileage_km": 126000,
     "year": 2019,
     "transmission": "Automatic",
     "color": "White Pearl",
@@ -138,9 +138,10 @@
 
     "contact": {
       "name": "Andrei Popescu",
-      "phone": "+40723456789",
-      "email": "andrei.popescu@gmail.com",
+      "phone": "+40755687296",
+      "email": "gabridim18@gmail.com",
       "preferred_contact": "phone"
+      "adress": "Brasov, Str.Ioan Ursu Nr.12, Romania"
     },
 
     "image_gallery": [
@@ -210,7 +211,7 @@
   ],
 
   "price_eur": 5400,
-  "mileage_km": 260000,
+  "mileage_km": 262000,
   "year": 2010,
   "transmission": "CVT",
   "color": "Grey Metallic",
@@ -236,10 +237,11 @@
   "description": "Honda Insight 2010, hibrid mild fiabil și economic, ideal pentru oraș. Consum redus, întreținere ieftină și comportament confortabil la drum lung.",
 
   "contact": {
-    "name": "Andrei Popescu",
-    "phone": "+40723456789",
-    "email": "andrei.popescu@gmail.com",
+    "name": "Adrian B",
+    "phone": "+40755687296",
+    "email": "gabridim18@gmail.com",
     "preferred_contact": "phone"
+    "adress": "Brasov, B-dul Muncii Nr.1, Romania"
   },
 
   "image_gallery": [
