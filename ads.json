@@ -85,9 +85,9 @@
       "visibility": "public",
       "language": "ro",
       "hybridarena_score": {
-        "battery_health": null,
-        "fuel_efficiency": null,
-        "overall": null
+        "battery_health": 95,
+        "fuel_efficiency": 98,
+        "overall": 93
       }
     }
   },
@@ -187,9 +187,9 @@
       "visibility": "public",
       "language": "ro",
       "hybridarena_score": {
-        "battery_health": null,
-        "fuel_efficiency": null,
-        "overall": null
+        "battery_health": 88,
+        "fuel_efficiency": 81,
+        "overall": 89
       }
     }
   },
@@ -278,9 +278,9 @@
     "visibility": "public",
     "language": "ro",
     "hybridarena_score": {
-      "battery_health": null,
-      "fuel_efficiency": null,
-      "overall": null
+      "battery_health": 85,
+      "fuel_efficiency": 78,
+      "overall": 83
     }
   }
 }
