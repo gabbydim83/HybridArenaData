@@ -13,7 +13,7 @@
     "hybrid_type": "Full Hybrid",
     "co2_emissions": 86,
     "document_images": [
-      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius_carte.webp",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius_carte.webp"
       
     ],
 
@@ -60,7 +60,7 @@
       "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius5.jpg",
       "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius6.jpg",
       "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius7.jpg",
-      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius8.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/toyota_prius/prius8.jpg"
       
     ],
     "video_url": "https://www.youtube.com/shorts/DImvv8Uvv8Y",
@@ -140,7 +140,7 @@
       "name": "Andrei Popescu",
       "phone": "+40755687296",
       "email": "gabridim18@gmail.com",
-      "preferred_contact": "phone"
+      "preferred_contact": "phone",
       "adress": "Brasov, Str.Ioan Ursu Nr.12, Romania"
     },
 
@@ -162,7 +162,7 @@
       "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander14.jpg",
       "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander15.jpg",
       "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander16.jpg",
-      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander17.jpg",
+      "https://raw.githubusercontent.com/gabbydim83/HybridArenaData/refs/heads/main/images/mitsubishi_outlander/outlander17.jpg"
     ],
 
     "video_url": "https://youtu.be/example_outlander",
@@ -240,7 +240,7 @@
     "name": "Adrian B",
     "phone": "+40755687296",
     "email": "gabridim18@gmail.com",
-    "preferred_contact": "phone"
+    "preferred_contact": "phone",
     "adress": "Brasov, B-dul Muncii Nr.1, Romania"
   },
 
